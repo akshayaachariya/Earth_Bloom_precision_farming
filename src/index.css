@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Nunito+Sans:wght@300;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 72 33% 97%;
+    --foreground: 90 20% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 90 20% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 90 20% 20%;
+
+    --primary: 84 90% 27%;
+    --primary-foreground: 60 30% 96%;
+
+    --secondary: 84 80% 44%;
+    --secondary-foreground: 60 30% 96%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 48 96% 53%;
+    --accent-foreground: 90 20% 20%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 84 59% 88%;
+    --input: 84 59% 88%;
+    --ring: 84 90% 27%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 90 20% 10%;
+    --foreground: 60 30% 96%;
+
+    --card: 90 20% 15%;
+    --card-foreground: 60 30% 96%;
+
+    --popover: 90 20% 15%;
+    --popover-foreground: 60 30% 96%;
+
+    --primary: 84 90% 27%;
+    --primary-foreground: 60 30% 96%;
+
+    --secondary: 84 80% 44%;
+    --secondary-foreground: 60 30% 96%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 48 96% 53%;
+    --accent-foreground: 90 20% 10%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 84 59% 30%;
+    --input: 84 59% 30%;
+    --ring: 84 90% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-body;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-semibold;
+  }
+}
+
+@layer components {
+  .hero-section {
+    @apply relative bg-gradient-to-br from-farm-dark via-farm-primary to-farm-secondary text-white py-20 px-6 md:py-32 overflow-hidden;
+  }
+  
+  .section-divider {
+    @apply w-full h-20 bg-gradient-to-b from-background to-transparent -mt-20 relative z-10;
+  }
+  
+  .farm-card {
+    @apply bg-white dark:bg-card border border-border rounded-lg p-6 shadow-md hover:shadow-lg transition-all duration-300;
+  }
+  
+  .nav-link {
+    @apply relative px-3 py-1.5 font-medium transition-colors duration-200 hover:text-farm-primary;
+  }
+  
+  .nav-link-active {
+    @apply text-farm-primary font-medium after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-farm-primary;
+  }
+}
