@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f4f0d6"/>
+  <rect y="320" width="800" height="160" fill="#8dbb5b"/>
+  <g stroke="#4c8a2d" stroke-width="8" stroke-linecap="round">
+    <path d="M400 330V135"/>
+    <path d="M400 230c-60 -40 -82 -22 -102 20"/>
+    <path d="M400 255c58 -40 82 -28 100 18"/>
+  </g>
+  <g fill="#f2c94c">
+    <ellipse cx="400" cy="185" rx="38" ry="70"/>
+  </g>
+  <g fill="#7fbf5f">
+    <path d="M372 165c-40 20 -62 52 -68 98c28 -26 52 -36 75 -34z"/>
+    <path d="M428 165c40 22 61 53 67 97c-28 -24 -52 -35 -75 -34z"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5b4a18">Maize</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#eef7df"/>
+  <rect y="320" width="800" height="160" fill="#92b96a"/>
+  <g stroke="#5d8a3b" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M340 330V170"/>
+    <path d="M400 330V140"/>
+    <path d="M460 330V185"/>
+  </g>
+  <g fill="#ffffff" stroke="#d7d7d7" stroke-width="3">
+    <circle cx="340" cy="168" r="24"/>
+    <circle cx="322" cy="182" r="18"/>
+    <circle cx="358" cy="182" r="18"/>
+    <circle cx="400" cy="138" r="26"/>
+    <circle cx="380" cy="154" r="19"/>
+    <circle cx="420" cy="154" r="19"/>
+    <circle cx="460" cy="183" r="23"/>
+    <circle cx="442" cy="198" r="17"/>
+    <circle cx="478" cy="198" r="17"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#49632b">Cotton</text>
+</svg>

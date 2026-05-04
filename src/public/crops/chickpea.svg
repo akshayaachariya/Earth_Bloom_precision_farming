@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#edf7df"/>
+  <rect y="320" width="800" height="160" fill="#9cc36b"/>
+  <g stroke="#4f7d2b" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M330 330V200"/>
+    <path d="M400 330V170"/>
+    <path d="M470 330V210"/>
+    <path d="M330 240c20 -25 42 -20 60 0"/>
+    <path d="M400 220c20 -35 45 -30 65 0"/>
+    <path d="M470 245c-18 -22 -35 -18 -52 0"/>
+  </g>
+  <g fill="#8bc34a">
+    <ellipse cx="355" cy="225" rx="28" ry="16"/>
+    <ellipse cx="375" cy="235" rx="24" ry="14"/>
+    <ellipse cx="425" cy="200" rx="34" ry="18"/>
+    <ellipse cx="450" cy="214" rx="28" ry="16"/>
+    <ellipse cx="448" cy="238" rx="26" ry="15"/>
+  </g>
+  <g fill="#d4a15d">
+    <circle cx="355" cy="232" r="10"/>
+    <circle cx="428" cy="210" r="10"/>
+    <circle cx="449" cy="245" r="10"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#36581d">Chickpea</text>
+</svg>

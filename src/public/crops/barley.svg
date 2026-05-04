@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#efe7c2"/>
+  <rect y="320" width="800" height="160" fill="#c9a45f"/>
+  <circle cx="690" cy="88" r="40" fill="#ffd166"/>
+  <g stroke="#6b4e16" stroke-width="7" stroke-linecap="round">
+    <path d="M400 330V145"/>
+    <path d="M365 330V165"/>
+    <path d="M435 330V160"/>
+  </g>
+  <g stroke="#b08a33" stroke-width="5" stroke-linecap="round">
+    <path d="M400 145l-32 -42"/>
+    <path d="M400 155l36 -46"/>
+    <path d="M365 165l-28 -36"/>
+    <path d="M435 160l30 -38"/>
+    <path d="M400 185l-34 -34"/>
+    <path d="M400 185l36 -32"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5b4317">Barley</text>
+</svg>

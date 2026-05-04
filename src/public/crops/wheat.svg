@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f7f1cf"/>
+  <rect y="320" width="800" height="160" fill="#d7b56d"/>
+  <circle cx="680" cy="90" r="44" fill="#f7c948"/>
+  <g stroke="#7a5a20" stroke-width="8" stroke-linecap="round">
+    <path d="M400 330V150"/>
+    <path d="M360 330V170"/>
+    <path d="M440 330V175"/>
+  </g>
+  <g fill="#d9b44a">
+    <ellipse cx="400" cy="140" rx="18" ry="32"/>
+    <ellipse cx="376" cy="165" rx="16" ry="28"/>
+    <ellipse cx="424" cy="170" rx="16" ry="28"/>
+    <ellipse cx="360" cy="200" rx="15" ry="24"/>
+    <ellipse cx="440" cy="205" rx="15" ry="24"/>
+    <ellipse cx="400" cy="190" rx="16" ry="28"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5f4718">Wheat</text>
+</svg>

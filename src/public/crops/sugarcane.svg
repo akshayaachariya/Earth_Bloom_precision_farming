@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#e4f5d8"/>
+  <rect y="320" width="800" height="160" fill="#78b957"/>
+  <g stroke="#5d8f3a" stroke-width="18" stroke-linecap="round">
+    <path d="M330 330V120"/>
+    <path d="M400 330V95"/>
+    <path d="M470 330V135"/>
+  </g>
+  <g stroke="#d3b17a" stroke-width="5">
+    <path d="M330 200h0"/>
+    <path d="M330 250h0"/>
+    <path d="M400 175h0"/>
+    <path d="M400 240h0"/>
+    <path d="M470 215h0"/>
+    <path d="M470 265h0"/>
+  </g>
+  <g fill="#8fd36d">
+    <path d="M330 150c-40 -20 -70 -10 -90 30c35 -10 65 -5 90 18z"/>
+    <path d="M400 120c-45 -25 -82 -12 -105 32c40 -10 75 -2 105 20z"/>
+    <path d="M470 165c40 -18 72 -10 92 24c-36 -8 -64 -3 -92 16z"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#305d24">Sugarcane</text>
+</svg>

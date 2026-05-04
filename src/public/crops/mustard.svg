@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f8f5d9"/>
+  <rect y="320" width="800" height="160" fill="#9bcf67"/>
+  <g stroke="#4f8a2c" stroke-width="8" stroke-linecap="round">
+    <path d="M330 330V190"/>
+    <path d="M400 330V150"/>
+    <path d="M470 330V205"/>
+  </g>
+  <g fill="#f4d03f">
+    <circle cx="330" cy="185" r="18"/>
+    <circle cx="400" cy="145" r="20"/>
+    <circle cx="470" cy="198" r="18"/>
+    <circle cx="356" cy="215" r="16"/>
+    <circle cx="435" cy="185" r="16"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5c6018">Mustard</text>
+</svg>

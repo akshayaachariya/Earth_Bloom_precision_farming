@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f0ecd8"/>
+  <rect y="300" width="800" height="180" fill="#a97743"/>
+  <g stroke="#3f7a2a" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M400 300V170"/>
+    <path d="M400 230c-50 -35 -78 -26 -95 12"/>
+    <path d="M400 240c48 -30 74 -24 90 14"/>
+  </g>
+  <g fill="#7fbf5e">
+    <ellipse cx="332" cy="220" rx="36" ry="18"/>
+    <ellipse cx="468" cy="228" rx="34" ry="17"/>
+  </g>
+  <g fill="#c99358">
+    <ellipse cx="370" cy="326" rx="22" ry="34"/>
+    <ellipse cx="430" cy="326" rx="22" ry="34"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5a3a1f">Groundnut</text>
+</svg>

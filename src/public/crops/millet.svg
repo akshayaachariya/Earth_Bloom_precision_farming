@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f6efd2"/>
+  <rect y="320" width="800" height="160" fill="#c9a765"/>
+  <g stroke="#6d5523" stroke-width="7" stroke-linecap="round">
+    <path d="M340 330V170"/>
+    <path d="M400 330V150"/>
+    <path d="M460 330V180"/>
+  </g>
+  <g fill="#caa64d">
+    <circle cx="340" cy="170" r="10"/>
+    <circle cx="330" cy="185" r="9"/>
+    <circle cx="350" cy="190" r="9"/>
+    <circle cx="400" cy="150" r="11"/>
+    <circle cx="390" cy="168" r="10"/>
+    <circle cx="410" cy="172" r="10"/>
+    <circle cx="460" cy="180" r="10"/>
+    <circle cx="450" cy="196" r="9"/>
+    <circle cx="470" cy="198" r="9"/>
+  </g>
+  <text x="60" y="90" font-size="46" font-family="Georgia, serif" fill="#5e471d">Millet</text>
+</svg>
