@@ -1,9 +1,4 @@
-<img width="1858" height="906" alt="weather" src="https://github.com/user-attachments/assets/993c5e22-8d99-428d-9325-bc64db8ee861" />
-<img width="1882" height="911" alt="soilAnalysis" src="https://github.com/user-attachments/assets/e0c80639-9d71-42a6-b506-56bab4800b2c" />
-<img width="1882" height="906" alt="recommendation" src="https://github.com/user-attachments/assets/717e063e-1280-480f-891a-c4429be86e06" />
-<img width="1900" height="912" alt="homepage" src="https://github.com/user-attachments/assets/c589661a-5418-47e5-a043-3533ae40a74a" />
-<img width="1890" height="902" alt="ContactUs" src="https://github.com/user-attachments/assets/321ccd80-3b33-4328-8194-207c3cd90c7d" />
-<img width="1875" height="903" alt="AccountSetting" src="https://github.com/user-attachments/assets/1b658cba-bbb5-424c-926f-eb3330d2bdf7" />
+
 # 🌱 Earth Bloom - Smart Precision Agriculture Platform
 
 ## 📌 Description
@@ -149,6 +144,13 @@ Each document stores:
 - Soil type
 - Crop suggestions
 - Prediction results
+
+<img width="1858" height="906" alt="weather" src="https://github.com/user-attachments/assets/993c5e22-8d99-428d-9325-bc64db8ee861" />
+<img width="1882" height="911" alt="soilAnalysis" src="https://github.com/user-attachments/assets/e0c80639-9d71-42a6-b506-56bab4800b2c" />
+<img width="1882" height="906" alt="recommendation" src="https://github.com/user-attachments/assets/717e063e-1280-480f-891a-c4429be86e06" />
+<img width="1900" height="912" alt="homepage" src="https://github.com/user-attachments/assets/c589661a-5418-47e5-a043-3533ae40a74a" />
+<img width="1890" height="902" alt="ContactUs" src="https://github.com/user-attachments/assets/321ccd80-3b33-4328-8194-207c3cd90c7d" />
+<img width="1875" height="903" alt="AccountSetting" src="https://github.com/user-attachments/assets/1b658cba-bbb5-424c-926f-eb3330d2bdf7" />
 
 ## 🌍 Future Scope
 
