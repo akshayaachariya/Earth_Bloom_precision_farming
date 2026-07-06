@@ -150,7 +150,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Phone Number</h3>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+91 1234567890</p>
                       <p className="text-sm text-gray-500 mt-1">Available Mon-Fri, 9am-5pm</p>
                     </div>
                   </div>
@@ -178,8 +178,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Office</h3>
-                      <p className="text-gray-600">123 Agricultural Drive</p>
-                      <p className="text-gray-600">Farmington, CA 95432</p>
+                      <p className="text-gray-600">Agricultural Service</p>
+                      <p className="text-gray-600">Farmington, Nashik</p>
                     </div>
                   </div>
                 </CardContent>
